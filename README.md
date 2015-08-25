@@ -15,4 +15,4 @@ The course was completed in May, 2015.
 8. Linear Optimization (R script was written by the course's staff) 
 9. Integer Optimization  (no R code)
 
-Other documents can be found [here](https://drive.google.com/folderview?id=0B5rfruovGqsOTkdQN05zbFBDZW8&usp=sharing)
+Some course materials can be found [here](https://drive.google.com/folderview?id=0B5rfruovGqsOTkdQN05zbFBDZW8&usp=sharing)
