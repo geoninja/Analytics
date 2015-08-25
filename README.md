@@ -14,4 +14,3 @@ The course was completed in May, 2015.
 7. Visualization  
 8. Linear Optimization (R script was written by the course's staff) 
 9. Integer Optimization  (no R code)
-
