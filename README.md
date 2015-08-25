@@ -1,7 +1,7 @@
 # Analytics
 Repository of R code for the course "The Analytics Edge" offered by MIT via edX.  
 
-The course was completed on May, 2015.
+The course was completed in May, 2015.
 
 ### Index:
 
@@ -12,6 +12,6 @@ The course was completed on May, 2015.
 5. Text Analytics
 6. Clustering  
 7. Visualization  
-8. Linear Optimization  
-9. Integer Optimization  
+8. Linear Optimization (R script was written by the course's staff) 
+9. Integer Optimization  (no R code)
 
