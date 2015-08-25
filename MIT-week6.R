@@ -170,7 +170,7 @@ table(clusterGroups, kmclust7$cluster)
 
 
 #Airlines Market Segmentation
-airlines = read.csv("AirlinesCluster.csv")
+airlines = read.csv("data/AirlinesCluster.csv")
 
 #Part 1
 summary(airlines)
